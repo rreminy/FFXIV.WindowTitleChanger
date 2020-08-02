@@ -1,0 +1,9 @@
+{
+  "Author": "Azure Gem",
+  "Name": "Window Title Changer",
+  "Description": "Changes the window title (/wintitle)",
+  "InternalName": "WindowTitleChanger",
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 1
+}
